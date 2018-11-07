@@ -15,5 +15,6 @@ return [
 
     'failed' => 'Essas credenciais não correspondem aos nossos registros.',
     'throttle' => 'Muitas tentativas de login. Tente novamente em :seconds segundos.',
+    'passwords.sent' => 'Um email com o link para recuperar a sua senha foi enviado para o endereço do email de sua conta.'
 
 ];
